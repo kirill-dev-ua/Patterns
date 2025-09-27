@@ -37,6 +37,4 @@ public class Employee {
 
     @Column(name = "office_location")
     private String officeLocation;
-
-
 }
