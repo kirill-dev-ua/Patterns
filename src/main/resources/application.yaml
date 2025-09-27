@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: Patterns
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: 123456789
+  jpa:
+    hibernate:
+      ddl-auto: create
